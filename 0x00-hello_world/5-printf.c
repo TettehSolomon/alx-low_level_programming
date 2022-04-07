@@ -2,7 +2,7 @@ f.c
 #include <stdio.h>
 /**
  *main - Entry point
- *My hello, print ftask
+ *My hello, printf task
  *Return: return 1 after program execution
  */
 int main(void)
