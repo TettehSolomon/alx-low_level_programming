@@ -1,1 +1,1 @@
-Readme for 0x03 debugging
+readme for debugging
